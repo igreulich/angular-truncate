@@ -1,0 +1,26 @@
+{
+  "name": "angular-truncate",
+  "version": "0.1.0",
+  "description": "An angular filter to truncate a sting, and add an ellipsis.",
+  "main": "dist/igTruncate.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igreulich/angular-truncate.git"
+  },
+  "keywords": [
+    "angular",
+    "filter"
+  ],
+  "author": "Ian Greulich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igreulich/angular-truncate/issues"
+  },
+  "homepage": "https://github.com/igreulich/angular-truncate",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.5.0"
+  }
+}
