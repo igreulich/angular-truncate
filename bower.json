@@ -1,5 +1,5 @@
 {
-  "name": "angular-truncate",
+  "name": "igTruncate",
   "version": "0.1.0",
   "main": "dist/igTruncate.js",
   "ignore": [
