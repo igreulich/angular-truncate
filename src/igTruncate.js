@@ -1,6 +1,6 @@
 angular.module('igTruncate', []).filter('truncate', function (){
   return function (text, length, end){
-    if (text != undefined){
+    if (text !== undefined){
       if (isNaN(length)){
         length = 10;
       }
