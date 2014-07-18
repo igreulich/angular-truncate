@@ -10,7 +10,7 @@ Just put this filter on anything that returns a string;
 
 For example…
 
-	// Load the directive
+	// Load the filter
 	<script src="jquery.js"></script>
 	<script src="angular.js"></script>
 	<script src="igTruncate.js"></script>
