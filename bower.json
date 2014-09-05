@@ -1,6 +1,6 @@
 {
   "name": "igTruncate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/igTruncate.js",
   "ignore": [
     "node_modules",
