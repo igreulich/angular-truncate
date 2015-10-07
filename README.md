@@ -1,6 +1,6 @@
 ### Angular Truncate
 
-This is my Truncate filter. It will truncate the text passed to it, defaulting to 10 charachters.
+This is my Truncate filter. It will truncate the text passed to it, defaulting to 10 characters.
 
 #### Use
 
